@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  padding-top: 110px;
+  padding-top: 92px;
 }
 
 .header__menu {
